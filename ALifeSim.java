@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 //libraries required
 
-public class ALifeSim //The client class
+public class ALifeSim //Client Class
 {
 	/**
 	 * The main method for creating a map of organisms and coordinates the call to other functions
